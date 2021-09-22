@@ -9,4 +9,4 @@ Some of my hobbies include:
  - Checking [cryptocurrency prices](https://coinmarketcap.com/) too often
  - Messing with IoT devices
 
-If you'd like to get in contact with me, you can shoot me a message here or on [LinkedIn](https://www.linkedin.com/in/se%C3%A1n-w-487291121/).
+If you'd like to get in contact with me, you can shoot me a message on [LinkedIn](https://www.linkedin.com/in/se%C3%A1n-w-487291121/).
