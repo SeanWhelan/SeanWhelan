@@ -1,8 +1,10 @@
 ### Hey, I'm Seán 👋
-
 👨 I'm 20 years old
+
 🏠 I'm from Maynooth, Ireland
+
 📚 I'm currently pursuing a Bachelor's degree in Computer Applications and Software Engineering at [Dublin City University](https://www.dcu.ie/)
+
 
 Some of my hobbies include:
  - Writing sweet code (duh)
