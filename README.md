@@ -8,5 +8,6 @@ Some of my hobbies include:
  - Writing sweet code (duh)
  - Checking [cryptocurrency prices](https://coinmarketcap.com/) too often
  - Messing with IoT devices
+ - Scuba diving 🤿
 
 If you'd like to get in contact with me, you can shoot me a message on [LinkedIn](https://www.linkedin.com/in/se%C3%A1n-w-487291121/).
